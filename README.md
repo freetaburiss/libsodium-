@@ -1,5 +1,5 @@
 # libsodium最新版本安装教程
-
+yum -y groupinstall "Development Tools"  
 wget https://download.libsodium.org/libsodium/releases/LATEST.tar.gz   
 tar zxf LATEST.tar.gz  
 cd libsodium*  
