@@ -1,4 +1,4 @@
-libsodium最新版本安装教程
+# libsodium最新版本安装教程
 
 wget https://download.libsodium.org/libsodium/releases/LATEST.tar.gz
 tar zxf LATEST.tar.gz
